@@ -9,6 +9,17 @@ Sun Nov  9 08:02:10 EST 2014
 Another entry for today. Going for a kettlebell workout and then work go to work
 at an earlier time today.
 
+DAY 1, 21 day KB
+
+* 30 sec swings / 30 sec rest  14    23 s
+* 30 sec swings / 30 sec rest  12 3  20 s
+* 30 sec swings / 30 sec rest  13    20 s
+* 30 sec swings / 30 sec rest  12    22 s
+* 30 sec swings / 30 sec rest  11    20 s 
+
+Right now, the forearms tiring is the issue. Got to have a more relaxed grip for
+the swings.
+
 --------------------------------------------------------------------------------
 
 Sun Nov  9 07:01:46 EST 2014
