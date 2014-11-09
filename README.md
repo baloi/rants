@@ -4,6 +4,23 @@ anything thought of
 
 --------------------------------------------------------------------------------
 
+Sun Nov  9 09:15:56 EST 2014
+
+C++ may just add more complexity to my mind and force me to multi-task. So 3
+things:
+
+1. Code in C (database with editor support)
+2. Code in Python caseload project
+   - SQLAlchemy models
+   - add web support
+3. Webserver in C
+
+MAYBE: SDL game prog in C++ or Algorithms (these 2 are a distant maybe)
+
+Will do these until end of December. January I will regroup.
+
+--------------------------------------------------------------------------------
+
 Sun Nov  9 08:02:10 EST 2014
 
 Another entry for today. Going for a kettlebell workout and then work go to work
@@ -53,7 +70,7 @@ interest me like:
 - processing work data through my own made tools - Python
 
 So this is it. My only use for C++ would be game programming for now with SDL.
-Rust I cannon even install in my Mac.
+Rust I cannot even install in my Mac.
 
 C rocks because of support, available code I can study, efficiency, stability
 and simplicity. It just wins.
@@ -74,3 +91,5 @@ The book "Learn C the Hard Way" shows how a very good veteran coder is doing
 stuff in C no less. 
 
 C rocks. Python rocks. Now back to coding in C.
+
+
