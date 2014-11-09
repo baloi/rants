@@ -29,10 +29,11 @@ but the learning curve is a little steep for me at this time. With my time cons-
 traints, I am not ready to invest too much time into learning a new programming
 language. I would rather spend the time working on projects and problems that
 interest me like:
-> making my own editor
-> implementing a web server
-> implementing a database management system (simple)
-> processing work data through my own made tools - Python
+
+- making my own editor
+- implementing a web server
+- implementing a database management system (simple)
+- processing work data through my own made tools - Python
 
 So this is it. My only use for C++ would be game programming for now with SDL.
 Rust I cannon even install in my Mac.
@@ -42,6 +43,7 @@ and simplicity. It just wins.
 
 Python rocks as I can get ideas in my head into code quickly. I have proven this
 with two projects already:
+
 1. afternoon made grading system
 2. 2 - 3 week free time made excel data crunching program to parse therapist
    caseloads which I am still continuing to develop to have web functionality.
