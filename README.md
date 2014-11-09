@@ -1,0 +1,4 @@
+rants
+=====
+
+anything thought of
