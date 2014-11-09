@@ -1,13 +1,13 @@
 rants
 =====
-
 anything thought of
 
 --------------------------------------------------------------------------------
 
 Sun Nov  9 08:02:10 EST 2014
 
-Another entry for today.
+Another entry for today. Going for a kettlebell workout and then work go to work
+at an earlier time today.
 
 --------------------------------------------------------------------------------
 
