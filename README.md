@@ -4,6 +4,31 @@ anything thought of
 
 --------------------------------------------------------------------------------
 
+Mon Nov 10 23:19:59 EST 2014
+
+Day 2 of kettlebell challenge. 5 minutes
+* 15 lunges 
+* 5 pushups
+* 10 squats, 1 squat stretch
+* 5 wrestler's
+* 1 partial bridge
+* 1 bridge
+* 1 press
+
+START
+* 30 sec swings / 30 sec rest - 15, 30 s
+* 30 sec swings / 30 sec rest - 15, 30 s
+* 30 sec swings / 30 sec rest - 12, 25 s
+* 30 sec swings / 30 sec rest - 12, 23 s
+* 30 sec swings / 30 sec rest - 11, 20 s
+END
+
+Badass workout!!
+
+Now in prone position.
+
+--------------------------------------------------------------------------------
+
 Sun Nov  9 09:15:56 EST 2014
 
 C++ may just add more complexity to my mind and force me to multi-task. So 3
