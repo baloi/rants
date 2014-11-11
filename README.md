@@ -4,6 +4,41 @@ anything thought of
 
 --------------------------------------------------------------------------------
 
+Tue Nov 11 12:37:55 EST 2014
+(Taken from a journal entry)
+
+Studying algorithms, datastructures, files, input-output and databases is a 
+challenging endeavour. I hope to be able to delve more into these areas and it
+seems that my preconception that studies into these areas are reaching a plateau
+is not a fact. What I'm finding more is that there is some more focus back into
+low-level programming, better algorithms, better input and output. I used to
+think that having more powerful hardware every year would cancel out the need
+for efficient datastructures, speed of programs, better algorithms, etc. 
+
+I thought that memory allocation, file access speeds, pooling of resources did
+not count anymore. On the contrary, some important work is going on in areas as
+we are handling more data with increased need for speed, availability, fault
+tolerance and the such. In this regard, I also see lower-level programming
+languages like C or newer ones like Rust and Go are on the surge and not only
+higher level langauges like Python and Ruby.
+
+Studying and practicing C, would then still be very practical nowadays and it 
+becomes more enjoyable once you learn how to handle memory and stuff. A very
+good way I found out of learning is to study other people's code and evan to
+just rewrite it, modify and run it yourself.
+
+This is now a new endeavor for me. It will definitely replace chess Friday
+nights and weekends.
+
+Winter is coming up. I'm also longing to get into cross country skiing and 
+maybe tennis more - but cross country skiing I would really like to do more.
+I need to keep working at this pace to be able to provide for my family and to
+be able to get some recreation for everyone. This is the plan. God help me 
+prosper in Your promise land. Thank you for all the Blessings.
+
+
+--------------------------------------------------------------------------------
+
 Mon Nov 10 23:19:59 EST 2014
 
 Day 2 of kettlebell challenge. 5 minutes
@@ -26,6 +61,8 @@ END
 Badass workout!!
 
 Now in prone position.
+
+Slept soundly after.
 
 --------------------------------------------------------------------------------
 
