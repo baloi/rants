@@ -4,6 +4,20 @@ anything thought of
 
 --------------------------------------------------------------------------------
 
+Wed Nov 12 12:39:12 EST 2014
+
+Food log
+* Bullet coffee (Dunkin Doughnuts Medium Dark Roast $2.17) with butter only
+* Lunch
+  - 1 large piece of Chocolate Peanut butter cake (1,000,000 calories?)
+  - iceberg salad
+  - 2/3 cup adobo
+  - 1/2 hotdog with mustard
+  - 1 hard boiled egg
+  - 3 strips of chicken
+
+--------------------------------------------------------------------------------
+
 Tue Nov 11 22:07:36 EST 2014
 
 Day 3 of 21 DAY kettlebell challenge
