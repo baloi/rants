@@ -4,6 +4,35 @@ anything thought of
 
 --------------------------------------------------------------------------------
 
+Tue Nov 11 22:07:36 EST 2014
+
+Day 3 of 21 DAY kettlebell challenge
+Warmup
+* lunges 15, 5 pushups x 2 sets 
+
+START
+* 30 sec swings / 60 sec rest - 15, 30 s
+* 30 sec swings / 60 sec rest - 15, 30 s
+* 30 sec swings / 60 sec rest - 15, 30 s
+* 30 sec swings / 60 sec rest - 12, 25 s
+END
+
+Food:
+* Bullet coffee in AM
+* Lunch
+  - soup
+  - bacon
+  - chicken tenders
+  - salad
+  - stew
+* Dinner
+  - adobo pork
+  - beef strips a little
+  - blue cheese, a little
+  - 5 ounces of wine
+
+--------------------------------------------------------------------------------
+
 Tue Nov 11 12:37:55 EST 2014
 (Taken from a journal entry)
 
