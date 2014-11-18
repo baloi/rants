@@ -4,6 +4,49 @@ anything thought of
 
 --------------------------------------------------------------------------------
 
+Tue Nov 18 06:42:13 EST 2014
+
+(From a journal entry)
+
+Not making the best headway in to coding, but worked on vim usage: CtrlP to make
+file searching more enjoyable. I have been using tmux also and read what I
+thought were the more important aspects that I could use. I still have a couple
+of books that I have not read much:
+* The Black Art of Multiplayer Game Programming
+* SSH Mastery - Will read more when I setup tunnels maybe
+* Command Line Kung Fu
+
+Books that I have read or used more:
+* K and R C (basis for my input module)
+* Ready To Run (1 day read almost all)
+* Instant Flask Web Development (read and used code, most of it for my site for
+  the day program.
+* tmux, Productive Mouse Free Development (read more that half)
+* 21 kettlebell challenge
+* Compiler Design in C by Holub
+
+Maybe will read a sprinkle:
+* Core Python
+* Python Essential Reference 
+- Note: I have not coded too much Python lately, but will in the near future for
+  the scheduler refactoring and adding feature
+
+Overtook by other books:
+* Flask Web development by Instant Flask
+* C Programming (King) by K and R C book
+
+Useful sites:
+* Learn C the Hard Way (db implementation especially)
+* Creating hash tables in C 
+  (http://www.sparknotes.com/cs/searching/hashtables/section3.rhtml)
+  - Liked the code style although I had to fix some errors
+  - examples were very clear though
+* cplusplus.com
+  - good for C++ snippets
+
+
+--------------------------------------------------------------------------------
+
 Wed Nov 12 12:39:12 EST 2014
 
 Food log
